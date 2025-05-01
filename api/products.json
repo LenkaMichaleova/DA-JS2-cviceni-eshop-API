@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Bezdrátová sluchátka SoundPro X1",
+    "description": "Špičková bezdrátová sluchátka s aktivním potlačením hluku a výdrží 30 hodin.",
+    "price": 2499,
+    "category": "Elektronika",
+    "imageUrl": "https://img-cdn.heureka.group/v1/125457c9-415f-4401-9d02-6a35fa804670.jpg",
+    "stock": 35
+  },
+  {
+    "id": 2,
+    "name": "Sportovní boty RunMaster 3000",
+    "description": "Lehké a odolné běžecké boty pro každodenní trénink.",
+    "price": 1899,
+    "category": "Obuv",
+    "imageUrl": "https://img.adsport.cz/data/zbozi/adidas/650x550/449930.jpg",
+    "stock": 58
+  },
+  {
+    "id": 3,
+    "name": "Notebook UltraBook Z15",
+    "description": "Výkonný a lehký notebook ideální na práci i cestování.",
+    "price": 21999,
+    "category": "Elektronika",
+    "imageUrl": "https://dlcdnwebimgs.asus.com/gain/18276F6A-53ED-4F4E-BA26-95D7DE8F969C",
+    "stock": 12
+  },
+  {
+    "id": 4,
+    "name": "Elegantní hodinky Timeless Silver",
+    "description": "Klasické pánské hodinky z nerezové oceli s voděodolností 50 m.",
+    "price": 3299,
+    "category": "Doplňky",
+    "imageUrl": "https://cdn.myshoptet.com/usr/www.helvetia-hodinky.cz/user/shop/big/163947_festina-timeless-chronograph-20652-2.jpg?63d0f84a",
+    "stock": 20
+  },
+  {
+    "id": 5,
+    "name": "Chytrá domácí kamera HomeSecure 360",
+    "description": "Bezpečnostní kamera s nočním viděním a vzdáleným přístupem.",
+    "price": 1499,
+    "category": "Elektronika",
+    "imageUrl": "https://cdn.myshoptet.com/usr/shop.teslasmart.com/user/shop/big/1374-10_tesla-smart-camera-4g-battery-1920x1920-11.jpg?64c0e30b",
+    "stock": 44
+  },
+  {
+    "id": 6,
+    "name": "Dámská kabelka LuxStyle",
+    "description": "Elegantní dámská kabelka z pravé kůže, dostupná v několika barvách.",
+    "price": 2599,
+    "category": "Móda",
+    "imageUrl": "https://cdn.myshoptet.com/usr/www.bertoo.cz/user/shop/big/60610_damska-kabelka-bertoo-giulia-black-large.jpg?662900cd",
+    "stock": 15
+  },
+  {
+    "id": 7,
+    "name": "Set fitness gum ResistancePro",
+    "description": "5 různých gum s různými odpory pro komplexní domácí trénink.",
+    "price": 499,
+    "category": "Sport",
+    "imageUrl": "https://cdn.myshoptet.com/usr/www.pushshop.cz/user/shop/big/176-2_c-3.png?60dc8775",
+    "stock": 120
+  },
+  {
+    "id": 8,
+    "name": "Stolní lampa Nordic Glow",
+    "description": "Minimalistická LED lampa s teplým světlem a dotykovým ovládáním.",
+    "price": 899,
+    "category": "Domácnost",
+    "imageUrl": "https://cdn.myshoptet.com/usr/www.riteli.cz/user/shop/big/234958_led-stolni-dotykova-lampa-veradal-qi--5-5w--tepla-bila--cerna.jpg?64465337",
+    "stock": 70
+  },
+  {
+    "id": 9,
+    "name": "Dětská stavebnice MegaBlocks 1200 ks",
+    "description": "Velký set kostek pro děti od 3 let pro kreativní hraní.",
+    "price": 1399,
+    "category": "Hračky",
+    "imageUrl": "https://cdn.nejbaby.cz/files/photos/1600-1200/e/e66a542a738dac43d3225c963f217e13d58de7fd.jpg",
+    "stock": 34
+  },
+  {
+    "id": 10,
+    "name": "Kávovar BaristaPro 500",
+    "description": "Automatický kávovar s funkcí napěnění mléka a dotykovým displejem.",
+    "price": 5499,
+    "category": "Kuchyňské spotřebiče",
+    "imageUrl": "https://cdn.myshoptet.com/usr/www.elektrogola.cz/user/shop/big/439-1_cffc8190-4928-4cf3-b5b0-51cb6ea8f6bd.jpg?655b8442",
+    "stock": 8
+  }
+]
